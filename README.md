@@ -79,7 +79,7 @@ A pesquisa acontece automaticamente conforme o usuário digita.
 
 ---
 
-## ✏ Atualização de Produto
+##  Atualização de Produto
 
 Ao selecionar um produto na tabela, seus dados são carregados automaticamente nos campos do formulário.
 
@@ -122,7 +122,7 @@ Essa informação é exibida automaticamente na tabela.
 
 ---
 
-# ✔ Validações Implementadas
+#  Validações Implementadas
 
 O sistema possui validações para evitar erros de cadastro.
 
@@ -161,7 +161,7 @@ O sistema possui validações para evitar erros de cadastro.
 
 ---
 
-# 💬 MessageBox
+#  MessageBox
 
 Durante a utilização do sistema são exibidas mensagens para orientar o usuário.
 
@@ -178,7 +178,7 @@ Cada mensagem utiliza um ícone apropriado para melhorar a experiência do usuá
 
 ---
 
-# 🛠 Organização do Código
+# Organização do Código
 
 O projeto foi dividido em métodos para facilitar a manutenção.
 
