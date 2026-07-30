@@ -1,0 +1,37 @@
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe.config
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\bin\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\aluno_iot.CENTRO40\Documents\SharpDevelop Projects\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamentoDeEstoque\obj\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.MainForm.resources
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.csproj.GenerateResource.Cache
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe.config
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\aluno_iot.CENTRO40\Desktop\SistemaDeGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe.config
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.MainForm.resources
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\Gabriel\Desktop\SistemaGerenciamento-20260730T010721Z-1-001\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe.config
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\bin\Debug\SistemaDeGerenciamentoDeEstoque.pdb
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.MainForm.resources
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.exe
+C:\Users\Gabriel\Desktop\sistema\SistemaGerenciamento\obj\Debug\SistemaDeGerenciamentoDeEstoque.pdb
